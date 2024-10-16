@@ -20,3 +20,9 @@ nav {
     font-size: 3rem;
     line-height: 7rem;
 }
+
+h2 {
+    padding: 1rem;
+    background: gold;
+    border-radius: 2rem 2rem 0 0;
+}
